@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VSx7z8vYCsU=",
+  "dgSpecHash": "4BgLvB+uZ+E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\YouTube\\Net Core\\NetCoreYouTube\\NetCoreYouTube\\NetCoreYouTube.csproj",
+  "projectFilePath": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\netcore_youtube_ejercicio\\NetCoreYouTube\\NetCoreYouTube\\NetCoreYouTube.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dieoj\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\dieoj\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -1,22 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\YouTube\\Net Core\\NetCoreYouTube\\",
+  "WorkspaceRootPath": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\netcore_youtube_ejercicio\\NetCoreYouTube\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64A354E9-74A1-421F-84BB-80ED46E33AA4}|NetCoreYouTube\\NetCoreYouTube.csproj|c:\\users\\dieoj\\onedrive\\documentos\\repositorios\\youtube\\net core\\netcoreyoutube\\netcoreyoutube\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{64A354E9-74A1-421F-84BB-80ED46E33AA4}|NetCoreYouTube\\NetCoreYouTube.csproj|c:\\users\\dieoj\\onedrive\\documentos\\repositorios\\netcore_youtube_ejercicio\\netcoreyoutube\\netcoreyoutube\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64A354E9-74A1-421F-84BB-80ED46E33AA4}|NetCoreYouTube\\NetCoreYouTube.csproj|solutionrelative:netcoreyoutube\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64A354E9-74A1-421F-84BB-80ED46E33AA4}|NetCoreYouTube\\NetCoreYouTube.csproj|c:\\users\\dieoj\\onedrive\\documentos\\repositorios\\youtube\\net core\\netcoreyoutube\\netcoreyoutube\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64A354E9-74A1-421F-84BB-80ED46E33AA4}|NetCoreYouTube\\NetCoreYouTube.csproj|solutionrelative:netcoreyoutube\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64A354E9-74A1-421F-84BB-80ED46E33AA4}|NetCoreYouTube\\NetCoreYouTube.csproj|c:\\users\\dieoj\\onedrive\\documentos\\repositorios\\youtube\\net core\\netcoreyoutube\\netcoreyoutube\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64A354E9-74A1-421F-84BB-80ED46E33AA4}|NetCoreYouTube\\NetCoreYouTube.csproj|solutionrelative:netcoreyoutube\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64A354E9-74A1-421F-84BB-80ED46E33AA4}|NetCoreYouTube\\NetCoreYouTube.csproj|c:\\users\\dieoj\\onedrive\\documentos\\repositorios\\youtube\\net core\\netcoreyoutube\\netcoreyoutube\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64A354E9-74A1-421F-84BB-80ED46E33AA4}|NetCoreYouTube\\NetCoreYouTube.csproj|solutionrelative:netcoreyoutube\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,52 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\YouTube\\Net Core\\NetCoreYouTube\\NetCoreYouTube\\Controllers\\ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\netcore_youtube_ejercicio\\NetCoreYouTube\\NetCoreYouTube\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "NetCoreYouTube\\Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\YouTube\\Net Core\\NetCoreYouTube\\NetCoreYouTube\\Controllers\\ClienteController.cs",
-              "RelativeToolTip": "NetCoreYouTube\\Controllers\\ClienteController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAApAAAA",
+              "ToolTip": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\netcore_youtube_ejercicio\\NetCoreYouTube\\NetCoreYouTube\\Controllers\\ClienteController.cs*",
+              "RelativeToolTip": "NetCoreYouTube\\Controllers\\ClienteController.cs*",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwCsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T01:02:13.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\YouTube\\Net Core\\NetCoreYouTube\\NetCoreYouTube\\Program.cs",
-              "RelativeDocumentMoniker": "NetCoreYouTube\\Program.cs",
-              "ToolTip": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\YouTube\\Net Core\\NetCoreYouTube\\NetCoreYouTube\\Program.cs",
-              "RelativeToolTip": "NetCoreYouTube\\Program.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAADwvyYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T00:39:05.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\YouTube\\Net Core\\NetCoreYouTube\\NetCoreYouTube\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "NetCoreYouTube\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\YouTube\\Net Core\\NetCoreYouTube\\NetCoreYouTube\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "NetCoreYouTube\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T02:26:02.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\YouTube\\Net Core\\NetCoreYouTube\\NetCoreYouTube\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "NetCoreYouTube\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\YouTube\\Net Core\\NetCoreYouTube\\NetCoreYouTube\\WeatherForecast.cs",
-              "RelativeToolTip": "NetCoreYouTube\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T02:25:52.491Z",
+              "WhenOpened": "2024-09-03T13:53:59.724Z",
               "EditorCaption": ""
             }
           ]

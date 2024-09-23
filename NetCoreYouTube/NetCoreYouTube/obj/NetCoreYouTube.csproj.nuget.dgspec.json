@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\YouTube\\Net Core\\NetCoreYouTube\\NetCoreYouTube\\NetCoreYouTube.csproj": {}
+    "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\netcore_youtube_ejercicio\\NetCoreYouTube\\NetCoreYouTube\\NetCoreYouTube.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\YouTube\\Net Core\\NetCoreYouTube\\NetCoreYouTube\\NetCoreYouTube.csproj": {
+    "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\netcore_youtube_ejercicio\\NetCoreYouTube\\NetCoreYouTube\\NetCoreYouTube.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\YouTube\\Net Core\\NetCoreYouTube\\NetCoreYouTube\\NetCoreYouTube.csproj",
+        "projectUniqueName": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\netcore_youtube_ejercicio\\NetCoreYouTube\\NetCoreYouTube\\NetCoreYouTube.csproj",
         "projectName": "NetCoreYouTube",
-        "projectPath": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\YouTube\\Net Core\\NetCoreYouTube\\NetCoreYouTube\\NetCoreYouTube.csproj",
+        "projectPath": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\netcore_youtube_ejercicio\\NetCoreYouTube\\NetCoreYouTube\\NetCoreYouTube.csproj",
         "packagesPath": "C:\\Users\\dieoj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\YouTube\\Net Core\\NetCoreYouTube\\NetCoreYouTube\\obj\\",
+        "outputPath": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\netcore_youtube_ejercicio\\NetCoreYouTube\\NetCoreYouTube\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dieoj\\AppData\\Roaming\\NuGet\\NuGet.Config",

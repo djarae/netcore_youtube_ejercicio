@@ -1,12 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using NetCoreYouTube.Models;
 using System.Numerics;
-
 namespace NetCoreYouTube.Controllers
-
-
 {
-
     [ApiController]
     [Route("cliente")]
     public class CllienteController : ControllerBase
@@ -40,7 +36,6 @@ namespace NetCoreYouTube.Controllers
             return idCliente;
 
         }
-
         [HttpPost]
         [Route("guardar")]
         public dynamic guardarCliente(Cliente cliente)
@@ -48,7 +43,6 @@ namespace NetCoreYouTube.Controllers
             //cliente.id = "3";
             return new
             {
-
                 success = true,
                 message = "Cliente Registrado",
                 result = cliente.id

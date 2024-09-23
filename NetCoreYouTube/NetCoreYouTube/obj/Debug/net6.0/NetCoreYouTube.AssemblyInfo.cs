@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetCoreYouTube")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+413c2a963ebb264ecc3184d33d18b51bd22d4b74")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetCoreYouTube")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetCoreYouTube")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
